@@ -1,0 +1,141 @@
+Part Three: 
+N = 4000
+Length of dictionary: 2681
+Corrections made: 	464
+Perceptron iterations: 	12
+Train Error Rate: 	0.0
+Validate Error Rate: 	1.7000000000000002
+
+Part four:
+Negative weighted (non spam) words: 
+word: i	 weight: -16.0
+word: inc	 weight: -11.0
+word: wrote	 weight: -19.0
+word: which	 weight: -11.0
+word: still	 weight: -12.0
+word: re	 weight: -11.0
+word: ll	 weight: -11.0
+word: reserv	 weight: -11.0
+word: someth	 weight: -12.0
+word: prefer	 weight: -16.0
+
+ 
+Positive weighted (spam) words: 
+word: these	 weight: 14.0
+word: remov	 weight: 18.0
+word: click	 weight: 16.0
+word: our	 weight: 16.0
+word: present	 weight: 14.0
+word: pleas	 weight: 13.0
+word: market	 weight: 17.0
+word: deathtospamdeathtospamdeathtospam	 weight: 13.0
+word: sight	 weight: 18.0
+
+Parts Five and Six:
+N = 100
+Length of dictionary: 65
+Corrections made: 	92
+Perceptron iterations: 	10
+Train Error Rate: 	0.0
+Validate Error Rate: 	15.0
+
+N = 500
+Length of dictionary: 501
+Corrections made: 	111
+Perceptron iterations: 	7
+Train Error Rate: 	0.0
+Validate Error Rate: 	4.5
+
+N = 2000
+Length of dictionary: 1637
+Corrections made: 	266
+Perceptron iterations: 	11
+Train Error Rate: 	0.0
+Validate Error Rate: 	2.3
+
+N = 4000
+Length of dictionary: 2681
+Corrections made: 	464
+Perceptron iterations: 	12
+Train Error Rate: 	0.0
+Validate Error Rate: 	1.7000000000000002
+
+Part Seven:
+Testing using X = 20:
+Max Iterations = 8
+Length of dictionary: 3117
+Perceptron iterations: 	8
+Validate Error Rate: 	1.7000000000000002
+
+Max Iterations = 10
+Length of dictionary: 3117
+Perceptron iterations: 	10
+Validate Error Rate: 	1.6
+
+Max Iterations = 12
+Length of dictionary: 3117
+Perceptron iterations: 	10
+Validate Error Rate: 	1.6
+
+Max Iterations = 14
+Length of dictionary: 3117
+Perceptron iterations: 	10
+Validate Error Rate: 	1.6
+
+Testing using X = 25:
+Max Iterations = 8
+Length of dictionary: 2681
+Perceptron iterations: 	8
+Validate Error Rate: 	1.6
+
+Max Iterations = 10
+Length of dictionary: 2681
+Perceptron iterations: 	10
+Validate Error Rate: 	1.7999999999999998
+
+Max Iterations = 12
+Length of dictionary: 2681
+Perceptron iterations: 	12
+Validate Error Rate: 	1.7000000000000002
+
+Max Iterations = 14
+Length of dictionary: 2681
+Perceptron iterations: 	12
+Validate Error Rate: 	1.7000000000000002
+
+Testing using X = 30:
+Max Iterations = 8
+Length of dictionary: 2378
+Perceptron iterations: 	8
+Validate Error Rate: 	1.9
+
+Max Iterations = 10
+Length of dictionary: 2378
+Perceptron iterations: 	10
+Validate Error Rate: 	1.4000000000000001
+
+Max Iterations = 12
+Length of dictionary: 2378
+Perceptron iterations: 	12
+Validate Error Rate: 	1.3
+
+Max Iterations = 14
+Length of dictionary: 2378
+Perceptron iterations: 	12
+Validate Error Rate: 	1.3
+
+Part Eight:
+Testing on Test Data: 
+Using X = 30
+Number of words in dictionary = 2771
+Max iterations: 	13
+Perceptron Iterations = 13
+Test error rate = 1.7999999999999998
+
+Part Nine: 
+Testing on Test Data: 
+Using X = 1200
+Number of words in dictionary = 181
+Max iterations: 	500
+Perceptron Iterations = 500
+Test error rate = 10.2
