@@ -1,0 +1,132 @@
+Using alpha = 0.01
+Num iterations: 	10
+Value of Loss function:	0.419209080311
+
+Num iterations: 	20
+Value of Loss function:	0.358641701722
+
+Num iterations: 	30
+Value of Loss function:	0.312985380323
+
+Num iterations: 	40
+Value of Loss function:	0.278346093471
+
+Num iterations: 	50
+Value of Loss function:	0.251867521858
+
+Num iterations: 	60
+Value of Loss function:	0.23145267694
+
+Num iterations: 	70
+Value of Loss function:	0.215560366188
+
+Num iterations: 	80
+Value of Loss function:	0.203056362082
+
+Using alpha = 0.1
+Num iterations: 	10
+Value of Loss function:	0.180599289674
+
+Num iterations: 	20
+Value of Loss function:	0.148189302368
+
+Num iterations: 	30
+Value of Loss function:	0.139144618527
+
+Num iterations: 	40
+Value of Loss function:	0.135739180319
+
+Num iterations: 	50
+Value of Loss function:	0.134401872077
+
+Num iterations: 	60
+Value of Loss function:	0.133873459222
+
+Num iterations: 	70
+Value of Loss function:	0.13366441022
+
+Num iterations: 	80
+Value of Loss function:	0.133581681034
+
+Using alpha = 0.3
+Num iterations: 	10
+Value of Loss function:	0.136891227238
+
+Num iterations: 	20
+Value of Loss function:	0.133673813659
+
+Num iterations: 	30
+Value of Loss function:	0.133533922183
+
+Num iterations: 	40
+Value of Loss function:	0.133527773698
+
+Num iterations: 	50
+Value of Loss function:	0.133527503414
+
+Num iterations: 	60
+Value of Loss function:	0.133527491532
+
+Num iterations: 	70
+Value of Loss function:	0.13352749101
+
+Num iterations: 	80
+Value of Loss function:	0.133527490987
+
+Using alpha = 0.05
+Num iterations: 	10
+Value of Loss function:	0.249166369766
+
+Num iterations: 	20
+Value of Loss function:	0.183111385775
+
+Num iterations: 	30
+Value of Loss function:	0.160141720696
+
+Num iterations: 	40
+Value of Loss function:	0.149435921012
+
+Num iterations: 	50
+Value of Loss function:	0.143434239767
+
+Num iterations: 	60
+Value of Loss function:	0.139785821517
+
+Num iterations: 	70
+Value of Loss function:	0.137500722363
+
+Num iterations: 	80
+Value of Loss function:	0.136054464067
+
+Using alpha = 0.5
+Num iterations: 	10
+Value of Loss function:	0.133677346711
+
+Num iterations: 	20
+Value of Loss function:	0.133527864275
+
+Num iterations: 	30
+Value of Loss function:	0.133527491916
+
+Num iterations: 	40
+Value of Loss function:	0.133527490988
+
+Num iterations: 	50
+Value of Loss function:	0.133527490986
+
+Num iterations: 	60
+Value of Loss function:	0.133527490986
+
+Num iterations: 	70
+Value of Loss function:	0.133527490986
+
+Num iterations: 	80
+Value of Loss function:	0.133527490986
+
+Using alpha = 0.3iterations = 30
+Predicted normalized price of the house: 1.23303821263
+Predicted unscaled price of the house: 492942.61347
+
+Value of loss function at iteration 0 = 0.41986103549
+Value of loss function at iteration 1 = 0.359738347167
+Value of loss function at iteration 2 = 0.313968302017

@@ -1,14 +1,23 @@
-Name: Stephen Mathew
-NetID: sam957
+Problem One:
+The answers for this question are included in the file 'output.txt'
+For the cost function I took sigma of all of the data points in the housing.txt file and computed using sympy 
+Python code for this part is found in partOne.py
 
-Relevant output for parts Three through Nine are included as output.txt
-Plots for parts five and six are included as plotiterations.png and plotValidateError.png
+Problem Two:
 
-splitFiles.py is used only for splitting the train and validated files
+A: Feature Normalization 
+Mean : is given by sigma(xi)/n = xbar
+SD is given by sqrt(1/n(sigma(xi-xbar)^2))
 
-partOne.py is used for the vocabulary generation
+Python code to normalize features is found in partTwo.py, the resulting features are found in normalized.txt
+When normalizing the features I also inadvertently normalized the Y values. When predicting a new Y value the result has to be appropriately rescaled to account for this in order to interpret the price. This is handled by the function 'recoverUnscaledY' in gradientDescent.py
 
-perceptron.py contains perceptron implementation and relevant support and testing functions
+B: Gradient Descent
+The formula for the loss function is given by:
+J(w) = (1/2m) Σi [ y(i) – fw(x(i)) ]^2 
+(Copied from lecture slides)
 
-Question 10:
-Training on an independent training set allows you to fine tune your perceptron implementation before using the validation set to determine the strength of the implementation. The test set allows you to again test on new data. 
+The code for the reminder of the exercises is found in gradientDescent.py
+output is found in outputGradientDescent.txt
+Plots for the J(w) of given alpha are included as .png files as well
+
